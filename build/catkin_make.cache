@@ -1,0 +1,2 @@
+single_ladar_and_camera_fusion
+-DCATKIN_DEVEL_PREFIX=/home/zpj/ladar_and_camera_fusion/devel -DCMAKE_INSTALL_PREFIX=/home/zpj/ladar_and_camera_fusion/install -G Unix Makefiles
